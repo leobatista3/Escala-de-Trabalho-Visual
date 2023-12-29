@@ -20,3 +20,4 @@ O programa é bem interativo e com uma simples interface gráfica, do qual usei 
 É feito o pedido de horários pro usuário e lhe é retornado a quantidade de horas que devem ser trabalhadas, consequentemente informando a hora de logon/loggof em sua jornada trabalhista.
 
 ## Imagens
+![image](https://github.com/leobatista3/Escala-de-Trabalho-Visual/assets/72052192/0d62948c-c4c8-4402-822e-8421560b9805)
