@@ -1,0 +1,14 @@
+C:\Users\leoma\OneDrive\Desktop\HorasGráfico\bin\Debug\net8.0-windows\HorasGráfico.exe
+C:\Users\leoma\OneDrive\Desktop\HorasGráfico\bin\Debug\net8.0-windows\HorasGráfico.deps.json
+C:\Users\leoma\OneDrive\Desktop\HorasGráfico\bin\Debug\net8.0-windows\HorasGráfico.runtimeconfig.json
+C:\Users\leoma\OneDrive\Desktop\HorasGráfico\bin\Debug\net8.0-windows\HorasGráfico.dll
+C:\Users\leoma\OneDrive\Desktop\HorasGráfico\bin\Debug\net8.0-windows\HorasGráfico.pdb
+C:\Users\leoma\OneDrive\Desktop\HorasGráfico\obj\Debug\net8.0-windows\HorasGráfico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoma\OneDrive\Desktop\HorasGráfico\obj\Debug\net8.0-windows\HorasGráfico.AssemblyInfoInputs.cache
+C:\Users\leoma\OneDrive\Desktop\HorasGráfico\obj\Debug\net8.0-windows\HorasGráfico.AssemblyInfo.cs
+C:\Users\leoma\OneDrive\Desktop\HorasGráfico\obj\Debug\net8.0-windows\HorasGráfico.csproj.CoreCompileInputs.cache
+C:\Users\leoma\OneDrive\Desktop\HorasGráfico\obj\Debug\net8.0-windows\HorasGráfico.dll
+C:\Users\leoma\OneDrive\Desktop\HorasGráfico\obj\Debug\net8.0-windows\refint\HorasGráfico.dll
+C:\Users\leoma\OneDrive\Desktop\HorasGráfico\obj\Debug\net8.0-windows\HorasGráfico.pdb
+C:\Users\leoma\OneDrive\Desktop\HorasGráfico\obj\Debug\net8.0-windows\HorasGráfico.genruntimeconfig.cache
+C:\Users\leoma\OneDrive\Desktop\HorasGráfico\obj\Debug\net8.0-windows\ref\HorasGráfico.dll
