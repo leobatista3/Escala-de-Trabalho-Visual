@@ -3,7 +3,7 @@
 
 Esta é uma pequena evolução do script via console para escala de trabalho. Adicionei algumas mudanças e coloquei uma simples interface gráfica. 
 
-Pretendo melhorar este programinha furutamente!
+Pretendo melhorar este programinha futuramente!
 
 ## 👷‍♂️ Características
 
